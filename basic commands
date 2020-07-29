@@ -1,0 +1,24 @@
+#docker info (Return more informatin about the docker)
+
+#docker version (Return what version docker is)
+
+#docker images (Show all imagens) 
+
+#docker search "Service Name" (Show you more information about the service)
+
+#docker pull "Image Name"  (Donwload the especific image)
+
+#docker ps (Show all containers running)
+
+#docker ps -a (Show all containers)
+
+#docker start "Name or Container ID" (Start a especific container)
+
+#docker stop "Name or Container ID"  (Stop a especific container)
+
+#docker rm "Name or Container ID" (Remove a container, OBS: you just can remove a container if the container is stoped or you can use #docker container "Name or Container ID" -f)
+
+#docker rmi "Name or Image ID" (Remove the image selected)
+
+#docker stats (Show the hardware utilization)
+
